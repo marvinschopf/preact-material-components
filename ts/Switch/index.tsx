@@ -1,5 +1,5 @@
 import {MDCSwitch} from '@material/switch';
-import {h} from 'preact';
+import {h, JSX} from 'preact';
 import MaterialComponent from '../Base/MaterialComponent';
 
 export interface ISwitchProps extends JSX.HTMLAttributes {

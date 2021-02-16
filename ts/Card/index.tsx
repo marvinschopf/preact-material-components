@@ -1,4 +1,4 @@
-import {h} from 'preact';
+import {h, JSX} from 'preact';
 import MaterialComponent from '../Base/MaterialComponent';
 import Button from '../Button';
 import Icon from '../Icon';

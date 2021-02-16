@@ -1,6 +1,6 @@
 import {MDCDrawer} from '@material/drawer';
 import {bind} from 'bind-decorator';
-import {h} from 'preact';
+import {h, JSX} from 'preact';
 import MaterialComponent from '../Base/MaterialComponent';
 import {ListLinkItem} from '../List';
 

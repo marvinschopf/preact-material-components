@@ -1,7 +1,7 @@
 import MDCComponent from '@material/base/component';
 import {MDCRipple} from '@material/ripple';
 import {bind} from 'bind-decorator';
-import {Component, VNode} from 'preact';
+import {Component, VNode, JSX} from 'preact';
 import {SoftMerge} from './types';
 
 export interface IMaterialComponentOwnProps {

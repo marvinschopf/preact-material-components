@@ -1,5 +1,5 @@
 import {MDCTextField} from '@material/textfield';
-import {Component, h} from 'preact';
+import {Component, h, JSX} from 'preact';
 import MaterialComponent, {
   MaterialComponentProps
 } from '../Base/MaterialComponent';

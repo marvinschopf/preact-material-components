@@ -1,4 +1,4 @@
-import {h} from 'preact';
+import {h, JSX} from 'preact';
 import MaterialComponent from '../Base/MaterialComponent';
 
 export interface IFormfieldProps extends JSX.HTMLAttributes {

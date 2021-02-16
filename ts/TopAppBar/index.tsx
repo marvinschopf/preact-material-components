@@ -1,6 +1,6 @@
 import {MDCTopAppBar} from '@material/top-app-bar';
 import {bind} from 'bind-decorator';
-import {h} from 'preact';
+import {h, JSX} from 'preact';
 import MaterialComponent from '../Base/MaterialComponent';
 
 export interface ITopAppBarRowProps {}
