@@ -1,4 +1,4 @@
-import {Component, h, VNode, JSX} from 'preact';
+import {Component, h, JSX, VNode} from 'preact';
 import MaterialComponent from '../Base/MaterialComponent';
 
 export interface ITypographyProps {
