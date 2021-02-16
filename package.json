@@ -1,5 +1,5 @@
 {
-  "name": "preact-material-components",
+  "name": "material-preact",
   "version": "1.6.1",
   "description": "preact wrapper for \"Material Components for the web\"",
   "module": "index.js",
@@ -20,7 +20,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/prateekbh/preact-material-components.git"
+    "url": "git+https://github.com/marvinschopf/preact-material-components.git"
   },
   "keywords": [
     "preact",
@@ -29,14 +29,15 @@
     "material design"
   ],
   "author": {
-    "name": "Prateek Bhatnagar",
-    "email": "prateek89born@gmail.com"
+    "name": "Marvin Schopf",
+    "email": "marvin@schopf.biz",
+    "url": "https://www.marvinschopf.com"
   },
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/prateekbh/preact-material-components/issues"
+    "url": "https://github.com/marvinschopf/preact-material-components/issues"
   },
-  "homepage": "https://github.com/prateekbh/preact-material-components#readme",
+  "homepage": "https://github.com/marvinschopf/preact-material-components#readme",
   "dependencies": {
     "@babel/runtime": "^7.0.0-beta.54",
     "@material/animation": "0.39.0",
